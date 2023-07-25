@@ -1,7 +1,7 @@
 # CR6 Updated UI
 This is an updated version of the firmware for CR6 printers to give a different look to the UI. It does not provide any additional features or function above what Thinkersbluff supplied the in the refactored version 1.1 (see below). Everyone's idea of a UI is different and for me this just started out learning about the DWIN display and the DGUS tool.
 
-The installation and flashing is exactly as below. Just copy the files from the DWIN_SET to your SD card and flash. Refer to the original details below for different versions of the display.
+The installation and flashing is exactly as below. I've created 2 different releases. Under src there is the **DWIN** folder and **DWIN Original Layout** folder. Under DWIN copy the DWIN_SET folder to your micro SD and flash if you want the new main menu layout with Prepare then Print, or flash the DWIN_SET folder from DWIN Original Layout if you prefer the original layout with Print as the first button. Refer to the original details below for different versions of the display.
 
 I've tested on both the CR6SE and CR6-Max and everything works OK from what I can tell. I'm no artist so some of the icons might not be too flash, but it's quite a bit of work creating new UI elements and hats off to Thinkersbluff and the Community guys for the work they've done as I can appreciate the effort they went to.
 
